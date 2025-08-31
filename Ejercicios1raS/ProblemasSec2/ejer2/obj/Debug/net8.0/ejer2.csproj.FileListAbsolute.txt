@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\bin\Debug\net8.0\ejer2.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\bin\Debug\net8.0\ejer2.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\bin\Debug\net8.0\ejer2.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\bin\Debug\net8.0\ejer2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\bin\Debug\net8.0\ejer2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\refint\ejer2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ejer2.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios1raS\ejer2\obj\Debug\net8.0\ref\ejer2.dll

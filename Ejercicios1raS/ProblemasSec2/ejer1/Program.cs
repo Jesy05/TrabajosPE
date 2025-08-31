@@ -1,4 +1,4 @@
-﻿// Descripción: Este programa para determinar si un número ingresado es positivo, negativo o cero usando if.
+﻿// Descripción: Este programa es para determinar si un número ingresado es positivo, negativo o cero usando if.
 
 int num; 
 Console.Write("Ingrese un número: ");
