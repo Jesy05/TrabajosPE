@@ -1,0 +1,14 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\bin\Debug\net8.0\ejer1.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\bin\Debug\net8.0\ejer1.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\bin\Debug\net8.0\ejer1.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\bin\Debug\net8.0\ejer1.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\bin\Debug\net8.0\ejer1.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\refint\ejer1.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ejer1.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\ejer1\obj\Debug\net8.0\ref\ejer1.dll
