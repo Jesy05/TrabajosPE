@@ -18,7 +18,8 @@ else
 }
 
 // Usando switch con rangos aproximados
-switch (calificacion / 10)
+switch (calificacion / 10) //se usa switch y no if porque permite manejar múltiples casos de manera más clara
+// y evita la necesidad de múltiples condiciones
 {
     case 7:
     case 8:

@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\bin\Debug\net8.0\Prog1S2.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\bin\Debug\net8.0\Prog1S2.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\bin\Debug\net8.0\Prog1S2.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\bin\Debug\net8.0\Prog1S2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\bin\Debug\net8.0\Prog1S2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\refint\Prog1S2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\Prog1S2.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\Prog1S2\obj\Debug\net8.0\ref\Prog1S2.dll

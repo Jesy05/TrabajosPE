@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\bin\Debug\net8.0\programaiva.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\bin\Debug\net8.0\programaiva.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\bin\Debug\net8.0\programaiva.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\bin\Debug\net8.0\programaiva.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\bin\Debug\net8.0\programaiva.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\refint\programaiva.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\programaiva.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios2daS\programaiva\obj\Debug\net8.0\ref\programaiva.dll
