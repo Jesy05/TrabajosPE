@@ -1,5 +1,5 @@
 ﻿using System;  
-using System.Collections.Generic; // Necesario para usar List<T>
+using System.Collections.Generic; // Necesario para usar List<T> (estructuras de datos que permiten guardar múltiples elementos)
 
 namespace BibliotecaEstructurada
 {
@@ -72,6 +72,9 @@ namespace BibliotecaEstructurada
             return opcion; // si no retorna la opción válida
         }
 
+
+// >>>>
+
         // Procedimiento para registrar un libro en la lista
         static void RegistrarLibro() 
         {
@@ -89,7 +92,7 @@ namespace BibliotecaEstructurada
 
             // Validar que el autor no sea vacío
             Console.Write("Ingrese el autor del libro: ");
-            string autor = Console.ReadLine();
+            string autor = Console.ReadLine(); 
             if (string.IsNullOrWhiteSpace(autor))
             {
                 Console.WriteLine("El autor no puede estar vacío.");
