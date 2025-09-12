@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios3raS\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
