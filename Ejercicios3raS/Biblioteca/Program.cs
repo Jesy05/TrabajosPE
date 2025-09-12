@@ -1,4 +1,5 @@
-﻿using System;  
+﻿//Descripción: Programa que gestiona una biblioteca con opciones para registrar libros, buscar por autor y mostrar títulos disponibles.
+using System;  
 using System.Collections.Generic; // Necesario para usar List<T> (estructuras de datos que permiten guardar múltiples elementos)
 
 namespace BibliotecaEstructurada
@@ -49,7 +50,7 @@ namespace BibliotecaEstructurada
 
         // -------------------- Procedimientos y Funciones --------------------
 
-        // Procedimiento que muestra el menú principal
+        // Subprograma 1: Procedimiento que muestra el menú principal
         static void MostrarMenu()
         {
             Console.WriteLine("\n=== Sistema de Gestión de Biblioteca ===");
@@ -60,7 +61,7 @@ namespace BibliotecaEstructurada
             Console.Write("Seleccione una opción: ");
         }
 
-        // Función que lee la opción ingresada y valida que sea un número
+        //Subprograma 2: Función que lee la opción ingresada y valida que sea un número
         static int LeerOpcion() //este int es porque devuelve un entero y con el mismo static para que sea accesible desde otros métodos
         {
             int opcion; // Variable para almacenar la opción
@@ -75,8 +76,8 @@ namespace BibliotecaEstructurada
 
 // >>>>
 
-        // Procedimiento para registrar un libro en la lista
-        static void RegistrarLibro() 
+        // Subprograma 3: Procedimiento para registrar un libro en la lista
+        static void RegistrarLibro() // con con void para que no devuelva nada y static para no tener que llamar a través de un objeto
         {
             Console.WriteLine("\n--- Registro de Libro ---");
 
@@ -106,7 +107,7 @@ namespace BibliotecaEstructurada
             Console.WriteLine("Libro registrado con éxito.");
         }
 
-        // Procedimiento para buscar libros por autor
+        // Subprograma 4: Procedimiento para buscar libros por autor
         static void BuscarPorAutor()
         {
             Console.WriteLine("\n--- Búsqueda por Autor ---");
@@ -134,7 +135,7 @@ namespace BibliotecaEstructurada
             }
         }
 
-        // Procedimiento para mostrar todos los libros registrados
+        // Subprograma 5: Procedimiento para mostrar todos los libros registrados
         static void MostrarLibros()
         {
             Console.WriteLine("\n--- Listado de Libros Disponibles ---");
