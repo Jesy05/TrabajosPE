@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\bin\Debug\net8.0\programas4.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\bin\Debug\net8.0\programas4.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\bin\Debug\net8.0\programas4.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\bin\Debug\net8.0\programas4.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\bin\Debug\net8.0\programas4.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\refint\programas4.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\programas4.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\PracticaGruposde3\programas4\obj\Debug\net8.0\ref\programas4.dll
