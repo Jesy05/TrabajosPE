@@ -51,7 +51,7 @@ namespace BibliotecaEstructurada
         // -------------------- Procedimientos y Funciones --------------------
 
         // Subprograma 1: Procedimiento que muestra el menú principal
-        static void MostrarMenu()
+        static void MostrarMenu() 
         {
             Console.WriteLine("\n=== Sistema de Gestión de Biblioteca ===");
             Console.WriteLine("1. Registrar libro");
@@ -154,3 +154,7 @@ namespace BibliotecaEstructurada
         }
     }
 }
+// ref y out se direfencian en que ref requiere que la variable sea inicializada antes de pasarla al método, mientras que out no requiere inicialización previa pero obliga a que el método asigne un valor antes de salir.
+// object y 
+// difernecia clave entre pasar parametros por valor y por referencia es que al pasar por valor, se crea una copia del dato original, mientras que al pasar por referencia, se pasa la dirección de memoria del dato, permitiendo que el método modifique el valor original.
+// depende del tipo de referencia, por ejemplo con int y no se puede modificar el valor original, pero con una clase si se puede modificar el objeto original.
