@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones\\funciones.csproj",
+      "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones.csproj",
       "projectName": "funciones",
-      "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones\\funciones.csproj",
+      "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones.csproj",
       "packagesPath": "C:\\Users\\jesyg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones\\obj\\",
+      "outputPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jesyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
