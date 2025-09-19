@@ -1,0 +1,14 @@
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\bin\Debug\net9.0\Funnciones.exe
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\bin\Debug\net9.0\Funnciones.deps.json
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\bin\Debug\net9.0\Funnciones.runtimeconfig.json
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\bin\Debug\net9.0\Funnciones.dll
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\bin\Debug\net9.0\Funnciones.pdb
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.AssemblyInfoInputs.cache
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.AssemblyInfo.cs
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.csproj.CoreCompileInputs.cache
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.dll
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\refint\Funnciones.dll
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.pdb
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\Funnciones.genruntimeconfig.cache
+C:\Programación Estructurada\Viernes\Práctica\Funnciones\obj\Debug\net9.0\ref\Funnciones.dll

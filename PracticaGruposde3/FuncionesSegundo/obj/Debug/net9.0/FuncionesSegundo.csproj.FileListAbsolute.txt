@@ -1,0 +1,14 @@
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\bin\Debug\net9.0\FuncionesSegundo.exe
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\bin\Debug\net9.0\FuncionesSegundo.deps.json
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\bin\Debug\net9.0\FuncionesSegundo.runtimeconfig.json
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\bin\Debug\net9.0\FuncionesSegundo.dll
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\bin\Debug\net9.0\FuncionesSegundo.pdb
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.AssemblyInfoInputs.cache
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.AssemblyInfo.cs
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.csproj.CoreCompileInputs.cache
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.dll
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\refint\FuncionesSegundo.dll
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.pdb
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\FuncionesSegundo.genruntimeconfig.cache
+C:\Programación Estructurada\Viernes\Práctica\FuncionesSegundo\obj\Debug\net9.0\ref\FuncionesSegundo.dll
