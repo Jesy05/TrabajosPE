@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones.csproj",
-      "projectName": "funciones",
-      "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones.csproj",
+      "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones1.csproj",
+      "projectName": "funciones1",
+      "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\funciones1.csproj",
       "packagesPath": "C:\\Users\\jesyg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\PracticaGruposde3\\funciones1\\obj\\",
       "projectStyle": "PackageReference",

@@ -10,6 +10,13 @@ class Program
     static int ContarVocales(string texto) // recibe un parámetro de tipo string y devuelve un entero
                                            // Ese seria un parametro por valor, ya que se pasa una copia del valor original a la función.
                                            // el valor original siendo la cadena ingresada por el usuario.
+                                           // Si se quisiera pasar por referencia se usaria la palabra reservada ref o out antes del tipo de dato
+                                           // por ejemplo: 
+    // static void ContarVocales(ref string texto)
+    // y la función no devolvería nada, ya que el tipo de retorno sería void,
+    // se modificaría directamente el valor original pasado a la función.
+
+
     {
         int contador = 0; // inicializa el contador de vocales
         string vocales = "aeiouAEIOU"; // define las vocales a buscar
@@ -23,11 +30,11 @@ class Program
         return contador;            // devuelve el total de vocales encontradas
     } 
 
-    static void Main() 
+    static void Main()  // Punto de entrada del programa para ejecutar la función de manera ordenada 
     {
         Console.Write("Ingrese una cadena de texto: ");
-        string entrada = Console.ReadLine();
-        int cantidadVocales = ContarVocales(entrada);
-        Console.WriteLine($"La cantidad de vocales es: {cantidadVocales}");
+        string entrada = Console.ReadLine(); // lee la cadena ingresada por el usuario
+        int cantidadVocales = ContarVocales(entrada); // llama a la función y almacena el resultado
+        Console.WriteLine($"La cantidad de vocales es: {cantidadVocales}"); // muestra el resultado en consola
     }
 }
