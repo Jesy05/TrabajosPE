@@ -10,11 +10,13 @@ class Program // Define la clase principal del programa
     // Parámetros: cantidad (int), precioUnitario (decimal)
     // Retorno: void (no retorna nada, solo muestra resultados en consola)
     static void CalcularIVAyTotal(int cantidad, decimal precioUnitario)
+    // Estaba mal puesta 
     // Esta función calcula el subtotal, el IVA y el total a pagar
     // según la cantidad de productos y el precio unitario proporcionados.
     // Muestra los resultados en la consola con dos decimales para el formato monetario
     {
         // Calcula el subtotal multiplicando la cantidad por el precio unitario
+        // ya estaban, pero estaban desorganizados.
         decimal subtotal = cantidad * precioUnitario;
 
         // Calcula el IVA como el 15% del subtotal
@@ -30,13 +32,13 @@ class Program // Define la clase principal del programa
         Console.WriteLine($"Precio unitario: {precioUnitario:F2}");
 
         // Muestra el subtotal con dos decimales
-        Console.WriteLine($"Subtotal: {subtotal:F2}");
+        Console.WriteLine($"Subtotal: {subtotal:F2}"); 
 
         // Muestra el IVA calculado con dos decimales
-        Console.WriteLine($"IVA (15%): {iva:F2}");
+        Console.WriteLine($"IVA (15%): {iva:F2}");// ya estaba
 
         // Muestra el total a pagar con dos decimales
-        Console.WriteLine($"Total a pagar: {total:F2}");
+        Console.WriteLine($"Total a pagar: {total:F2}"); //ya estaba
     }
 
     // Función principal del programa
