@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj": {}
+    "C:\\Users\\User\\OneDrive\\C#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Documentos\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj": {
+    "C:\\Users\\User\\OneDrive\\C#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive\\C#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj",
         "projectName": "ejer1",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive\\C#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\ejer1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive\\C#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec2\\ejer1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
