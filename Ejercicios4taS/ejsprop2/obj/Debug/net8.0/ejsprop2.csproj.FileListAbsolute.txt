@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\bin\Debug\net8.0\ejsprop2.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\bin\Debug\net8.0\ejsprop2.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\bin\Debug\net8.0\ejsprop2.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\bin\Debug\net8.0\ejsprop2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\bin\Debug\net8.0\ejsprop2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\refint\ejsprop2.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ejsprop2.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\ejsprop2\obj\Debug\net8.0\ref\ejsprop2.dll

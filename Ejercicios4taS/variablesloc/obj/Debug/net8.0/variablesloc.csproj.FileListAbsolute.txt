@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\bin\Debug\net8.0\variablesloc.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\bin\Debug\net8.0\variablesloc.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\bin\Debug\net8.0\variablesloc.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\bin\Debug\net8.0\variablesloc.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\bin\Debug\net8.0\variablesloc.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\refint\variablesloc.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\variablesloc.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\Ejercicios4taS\variablesloc\obj\Debug\net8.0\ref\variablesloc.dll
