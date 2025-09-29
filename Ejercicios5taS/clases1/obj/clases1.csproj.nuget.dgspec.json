@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec3\\probl1\\probl1.csproj": {}
+    "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\clases1\\clases1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec3\\probl1\\probl1.csproj": {
+    "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\clases1\\clases1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec3\\probl1\\probl1.csproj",
-        "projectName": "probl1",
-        "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec3\\probl1\\probl1.csproj",
+        "projectUniqueName": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\clases1\\clases1.csproj",
+        "projectName": "clases1",
+        "projectPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\clases1\\clases1.csproj",
         "packagesPath": "C:\\Users\\jesyg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\Ejercicios1raS\\ProblemasSec3\\probl1\\obj\\",
+        "outputPath": "C:\\Users\\jesyg\\OneDrive\\Documents\\programasC#\\TrabajosPE\\clases1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jesyg\\AppData\\Roaming\\NuGet\\NuGet.Config",
