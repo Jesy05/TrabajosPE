@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\bin\Debug\net8.0\ej5S6.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\bin\Debug\net8.0\ej5S6.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\bin\Debug\net8.0\ej5S6.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\bin\Debug\net8.0\ej5S6.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\bin\Debug\net8.0\ej5S6.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\refint\ej5S6.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ej5S6.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-1\Ejercicios6taS\ej5S6\obj\Debug\net8.0\ref\ej5S6.dll
