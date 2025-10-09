@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\bin\Debug\net8.0\EjsMatBi.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\bin\Debug\net8.0\EjsMatBi.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\bin\Debug\net8.0\EjsMatBi.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\bin\Debug\net8.0\EjsMatBi.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\bin\Debug\net8.0\EjsMatBi.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\refint\EjsMatBi.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\EjsMatBi.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-2\Ejercicios7maS\EjsMatBi\obj\Debug\net8.0\ref\EjsMatBi.dll
