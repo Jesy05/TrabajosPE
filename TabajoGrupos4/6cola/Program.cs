@@ -20,7 +20,9 @@ class Program
             Console.WriteLine("3. Imprimir (Atender primer documento)");
             Console.WriteLine("4. Salir");
             Console.Write("Seleccione una opción: ");
-            opcion = int.Parse(Console.ReadLine()); // para manejar la entrada 
+            opcion = int.Parse(Console.ReadLine()); 
+            // para manejar la entrada 
+            //el int.parse para convertir la entrada de string a entero
 
             switch (opcion) // el switch para manejar las opciones del menu
             {
