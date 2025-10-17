@@ -20,7 +20,10 @@ namespace Ejercicio4_PilaDeshacer
             for (int i = 1; i <= 5; i++) // i es el contador de acciones y se le va sumando 1 hasta llegar a 5
             {
                 Console.Write($"Ingrese la acción #{i}: "); // el $ para interpolar la variable i en el string
-                string accion = Console.ReadLine();         // y el # para indicar que es un número ordinal
+                                                           // y el # para indicar que es un número ordinal
+                string? entrada = Console.ReadLine(); // usamos string? porque puede ser nulo
+                string accion = entrada ?? ""; // si es nulo, se reemplaza por una cadena vacía
+                                           
                 pilaAcciones.Push(accion); // Guardamos la acción en la pila
             }
 
