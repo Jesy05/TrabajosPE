@@ -76,3 +76,15 @@ class Program
          // no sea 4, el menu se va a repetir.
     }
 }
+
+//la estructura para implementar la cola es similar a la de la pila, pero en lugar de usar Stack<T>, usamos Queue<T>.
+// La cola sigue el principio FIFO (First In, First Out), lo que significa que el primer elemento en entrar es el primero en salir.
+// Los métodos principales son Enqueue (para agregar un elemento al final de la cola) y Dequeue 
+//(para eliminar y devolver el primer elemento de la cola).
+//los aspectos importantes para manejar una cola con arreglos son:
+//1. Un arreglo para almacenar los elementos de la cola.
+//2. Índices o punteros para rastrear la posición del frente y el final de la cola.
+//3. Métodos para las operaciones básicas de la cola: Enqueue (encolar)
+// y Dequeue (desencolar).
+//4. Manejo de condiciones de desbordamiento y subdesbordamiento para evitar errores
+// al agregar o quitar elementos.
