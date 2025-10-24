@@ -20,18 +20,21 @@ class Program
             Console.WriteLine("3. Imprimir (Atender primer documento)");
             Console.WriteLine("4. Salir");
             Console.Write("Seleccione una opción: ");
-            opcion = int.Parse(Console.ReadLine()); // para manejar la entrada 
+            opcion = int.Parse(Console.ReadLine()); 
+            // para manejar la entrada 
+            //el int.parse para convertir la entrada de string a entero
 
-            switch (opcion)
+            switch (opcion) // el switch para manejar las opciones del menu
             {
                 case 1:
-                    Console.Write("Ingrese el nombre del documento: "); 
-                    documento = Console.ReadLine(); 
+                    Console.Write("Ingrese el nombre del documento: ");
+                    documento = Console.ReadLine();
                     colaImpresion.Enqueue(documento); // va a agarrar y almacenar el doc al final de la cola
                     Console.WriteLine("Documento agregado a la cola.");
                     break;
 
                 case 2:
+                    // Usamos el if para verificar si hay documentos en la cola
                     if (colaImpresion.Count > 0) // aca aplica el first in first out, es decir, 
                     // el primero en entrar es el primero que se va a imprimir las veces que le demos a esa opcion 
                     {
@@ -48,7 +51,7 @@ class Program
                 case 3:
                     if (colaImpresion.Count > 0)
                     {
-                        string docImp = colaImpresion.Dequeue();
+                        string docImp = colaImpresion.Dequeue(); //strind docImp que va a almacenar el doc que se va a imprimir
                         Console.WriteLine($"\nImprimiendo: {docImp}");
                     }
                     else
@@ -67,5 +70,21 @@ class Program
             }
 
         } while (opcion != 4);
+         // el while para que el menu se repita hasta que el usuario decida salir
+         // si la opcion es diferente de 4 (salir) el menu se va a repetir
+         //el != es para "diferente de", en este caso 4, que quiere decir que mientras la opcion 
+         // no sea 4, el menu se va a repetir.
     }
 }
+
+//la estructura para implementar la cola es similar a la de la pila, pero en lugar de usar Stack<T>, usamos Queue<T>.
+// La cola sigue el principio FIFO (First In, First Out), lo que significa que el primer elemento en entrar es el primero en salir.
+// Los métodos principales son Enqueue (para agregar un elemento al final de la cola) y Dequeue 
+//(para eliminar y devolver el primer elemento de la cola).
+//los aspectos importantes para manejar una cola con arreglos son:
+//1. Un arreglo para almacenar los elementos de la cola.
+//2. Índices o punteros para rastrear la posición del frente y el final de la cola.
+//3. Métodos para las operaciones básicas de la cola: Enqueue (encolar)
+// y Dequeue (desencolar).
+//4. Manejo de condiciones de desbordamiento y subdesbordamiento para evitar errores
+// al agregar o quitar elementos.

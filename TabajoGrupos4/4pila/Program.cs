@@ -79,3 +79,17 @@ namespace Ejercicio4_PilaDeshacer
         }
     }
 }
+
+// la estructura de la pila es LIFO (Last In, First Out),
+// es decir, la última acción ingresada es la primera en ser deshecha.
+// Esta lógica es para usarse en aplicaciones como editores de texto, donde el usuario puede deshacer sus últimas acciones.
+// El programa guía al usuario a través de la simulación, mostrando claramente el estado de la pila en cada paso.
+//La estructura para usar la pila con arreglos es similar a la de las listas enlazadas,
+//pero con diferencias en la implementación interna.
+//Los elementos importantes para manejar una pila con arreglos son:
+//1. Un arreglo para almacenar los elementos de la pila.    
+//2. Un índice o puntero para rastrear la posición del tope de la pila.
+//3. Métodos para las operaciones básicas de la pila: Push (apilar), Pop
+//   (desapilar) y Peek (ver el tope sin quitarlo).
+//4. Manejo de condiciones de desbordamiento (overflow) y subdesbordamiento
+//   (underflow) para evitar errores al agregar o quitar elementos.
