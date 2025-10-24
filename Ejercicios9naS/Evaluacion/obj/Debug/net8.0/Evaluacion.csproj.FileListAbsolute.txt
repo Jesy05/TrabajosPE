@@ -1,0 +1,15 @@
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\bin\Debug\net8.0\Evaluacion.exe
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\bin\Debug\net8.0\Evaluacion.deps.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\bin\Debug\net8.0\Evaluacion.runtimeconfig.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\bin\Debug\net8.0\Evaluacion.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\bin\Debug\net8.0\Evaluacion.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.AssemblyInfoInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.AssemblyInfo.cs
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.sourcelink.json
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\refint\Evaluacion.dll
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.pdb
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\Evaluacion.genruntimeconfig.cache
+C:\Users\jesyg\OneDrive\Documents\programasC#\TrabajosPE-3\Ejercicios9naS\Evaluacion\obj\Debug\net8.0\ref\Evaluacion.dll
