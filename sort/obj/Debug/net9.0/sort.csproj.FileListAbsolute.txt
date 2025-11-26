@@ -1,0 +1,15 @@
+C:\Users\jesyg\nn\TrabajosPE\sort\bin\Debug\net9.0\sort.exe
+C:\Users\jesyg\nn\TrabajosPE\sort\bin\Debug\net9.0\sort.deps.json
+C:\Users\jesyg\nn\TrabajosPE\sort\bin\Debug\net9.0\sort.runtimeconfig.json
+C:\Users\jesyg\nn\TrabajosPE\sort\bin\Debug\net9.0\sort.dll
+C:\Users\jesyg\nn\TrabajosPE\sort\bin\Debug\net9.0\sort.pdb
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.AssemblyInfoInputs.cache
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.AssemblyInfo.cs
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.csproj.CoreCompileInputs.cache
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.sourcelink.json
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.dll
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\refint\sort.dll
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.pdb
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\sort.genruntimeconfig.cache
+C:\Users\jesyg\nn\TrabajosPE\sort\obj\Debug\net9.0\ref\sort.dll
